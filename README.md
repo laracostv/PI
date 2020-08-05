@@ -1,5 +1,5 @@
 # PI
 Projeto Integrador
 Lara</br>
-Larissa Campos </b>
+Larissa Campos </br>
 Larissa Bianchini
